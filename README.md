@@ -9,7 +9,7 @@ Voice Chess is a tool for playing and analyzing chess games.<br>
 
 <b>New: v2.0 rewrite using the Godot engine</b><br>
 Added features:<br>
--Voice output.<br>
+-Voice output<br>
 -Voice recognition<br>
 -English and german localization<br>
 <br>
