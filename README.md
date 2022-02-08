@@ -1,11 +1,11 @@
 # Voice Chess 2.0
-Voice Chess 2.0 - Voice controlled chess with text to speech capabilities and accessibility in mind.<br>
+<b>Voice Chess 2.0</b> - Voice controlled chess with text to speech capabilities and accessibility in mind.<br>
 
 Voice Chess is a tool for playing and analyzing chess games.<br>
 It is completely independent from cloud technologies and uses clientside AI.<br>
 (it is possible to use an UCI-engine like lc0 for analyzing moves / playing against the computer)
 
-Used technologies:<br>
+<b<Used technologies:</b><br>
 -VOSK for voice recognition<br>
 -Mozilla TTS for text to speech<br>
 -lc0 for other player's moves
