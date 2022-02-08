@@ -19,5 +19,5 @@ Added features:<br>
 -Voice recognition<br>
 -English and german localization<br>
 <br>
-Download:<br>
+<b>Download:</b><br>
 https://dehe25.itch.io/voice-chess-20
