@@ -5,7 +5,7 @@ Voice Chess is a tool for playing and analyzing chess games.<br>
 It is completely independent from cloud technologies and uses clientside AI.<br>
 (it is possible to use an UCI-engine like lc0 for analyzing moves / playing against the computer)
 
-<b<Used technologies:</b><br>
+<b>Used technologies:</b><br>
 -VOSK for voice recognition<br>
 -Mozilla TTS for text to speech<br>
 -lc0 for other player's moves
