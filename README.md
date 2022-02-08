@@ -20,4 +20,8 @@ Added features:<br>
 -English and german localization<br>
 <br>
 <b>Download:</b><br>
-https://dehe25.itch.io/voice-chess-20
+https://dehe25.itch.io/voice-chess-20<br><br>
+<b>Support/Forum:</b><br>
+https://itsh.cc
+
+
